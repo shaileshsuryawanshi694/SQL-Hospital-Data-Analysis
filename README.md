@@ -80,6 +80,5 @@ The project demonstrates SQL queries used to analyze a hospital dataset and extr
 ## 👨‍💻 Author
 
 **Shailesh Balaji Suryawanshi**
----
 
 ⭐ If you found this project helpful, feel free to star this repository.
