@@ -2,41 +2,42 @@
 
 ## 📌 Project Overview
 
-This project contains SQL queries used to analyze a hospital dataset as part of the **30 Days SQL Micro Course** by **Skill Course**.
+This repository contains my SQL assignment completed during the **30 Days SQL Micro Course** by **Skill Course**.
 
-The objective was to extract meaningful insights from hospital records using PostgreSQL.
+The project demonstrates SQL queries used to analyze a hospital dataset and extract meaningful insights using **PostgreSQL**.
 
 ---
 
 ## 📊 SQL Concepts Used
 
 - SELECT
-- Aggregate Functions (SUM, AVG)
+- SUM()
+- AVG()
 - GROUP BY
 - ORDER BY
 - LIMIT
-- Date Functions
 - TO_DATE()
 - TO_CHAR()
+- Aggregate Functions
 
 ---
 
-## 📈 Insights Generated
+## 📈 Key Insights
 
 - Total Number of Patients
 - Average Doctors per Hospital
-- Top 3 Departments by Patients
+- Top 3 Departments by Patient Count
 - Hospital with Maximum Medical Expenses
 - Daily Average Medical Expenses
 - Longest Hospital Stay
 - Total Patients Treated Per City
-- Average Stay Per Department
-- Department with Lowest Patients
+- Average Length of Stay Per Department
+- Department with Lowest Number of Patients
 - Monthly Medical Expenses Report
 
 ---
 
-## 🛠 Tools Used
+## 🛠️ Tools Used
 
 - PostgreSQL
 - pgAdmin 4
@@ -45,47 +46,40 @@ The objective was to extract meaningful insights from hospital records using Pos
 
 ## 📂 Project Files
 
-- Hospital_management_project.sql
-- 30_Days_SQL_Micro_Query_Assignment_Answer.pdf
+- `Hospital_management_project.sql`
+- `30_Days_SQL_Micro_Query_Assignment_Answer.pdf`
 
 ---
 
-## 📸 Project Screenshots
+# 📸 Project Screenshots
 
-### CREATE TABLE
+## CREATE TABLE Query
 
-![Create Table](screenshots/create_table.png)
-
----
-
-### Dataset
-
-![Dataset](screenshots/select_data.png)
+![CREATE TABLE](screenshots/CREATE_TABLE_QUERY.png)
 
 ---
 
-### Top 3 Departments
+## Top 3 Departments Output
 
-![Top Departments](screenshots/top_departments.png)
-
----
-
-### Medical Expenses
-
-![Medical Expenses](screenshots/medical_expenses.png)
+![Top 3 Departments](screenshots/Top_3_departments_output.png)
 
 ---
 
-### Monthly Report
+## Hospital with Maximum Medical Expenses
 
-![Monthly Report](screenshots/monthly_report.png)
+![Medical Expenses](screenshots/Hospital%20with%20Maximum%20Medical%20Expenses.png)
+
+---
+
+## Monthly Medical Expenses Report
+
+![Monthly Report](screenshots/Monthly%20Medical%20Expenses%20Report.png)
 
 ---
 
 ## 👨‍💻 Author
 
 **Shailesh Balaji Suryawanshi**
+---
 
-Final Year B.E. Electronics & Telecommunication Engineering
-
-Learning Data Analytics | SQL | Excel | PostgreSQL
+⭐ If you found this project helpful, feel free to star this repository.
